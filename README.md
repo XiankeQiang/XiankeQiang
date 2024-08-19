@@ -29,15 +29,15 @@ Here are some of my recent publications:
 ## 🏆 Competitions & Awards
 
 - **Grand Prize (First Place) in the BEP1 Network Technology Challenge of China Collegiate Computing Competition 中国高校计算机大赛-网络技术挑战赛** - *Awarded for top performance in network technology challenge*, September 2022.
-- **Second Prize in the National College Student Computer Design Competition 中国大学生计算机设计大赛  ** - *Awarded for outstanding design and implementation in computer science*, August 2022.
+- **Second Prize in the National College Student Computer Design Competition 中国大学生计算机设计大赛** - *Awarded for outstanding design and implementation in computer science*, August 2022.
 - **Second Prize in the National College Student Internet of Things Design Competition (Huawei Cup) 全国大学生物联网设计竞赛（华为杯）**  - *Recognized for excellence in IoT design*, August 2022.
-- **First Prize (Team) at the National Finals of China Collegiate Computing Competition - Group Programming Ladder Tournament 中国高校计算机大赛-团体程序设计天梯赛 ** - *Awarded for top performance in the national team programming contest*, April 2022.
+- **First Prize (Team) at the National Finals of China Collegiate Computing Competition - Group Programming Ladder Tournament 中国高校计算机大赛-团体程序设计天梯赛** - *Awarded for top performance in the national team programming contest*, April 2022.
 - **Silver Medal at the Shandong Province ACM Programming Contest 山东省 ACM 程序设计大赛  ** - *Recognized for excellent performance in the programming contest*, May 2021.
 - **First Prize (Team) at the National Finals of China Collegiate Computing Competition - Group Programming Ladder Tournament 中国高校计算机大赛-团体程序设计天梯赛** - *Awarded for top performance in the national team programming contest*, May 2021.
-- **First Prize in C/C++ Programming (University Group A), Lanqiao Cup Shandong Province 蓝桥杯山东赛区 C/C++程序设计大学 A 组  ** - *Awarded for excellence in C/C++ programming*, May 2021.
-- **Bronze Medal at the 45th ACM-ICPC Asia Regional Contest, Kunming Site 第 45 届 ACM-ICPC 亚洲区域赛昆明站  ** - *Awarded for outstanding performance in algorithmic programming contest*, April 2021.
-- **First Prize in Category B, Shandong Provincial College Student Physics Competition 山东省大学生物理竞赛 B 类一等奖  ** - *Awarded for exceptional achievement in the physics competition*, December 2020.
-- **Third Prize in the National College Student Mathematics Competition (Non-Mathematics Major) 全国大学生数学竞赛（非数学类）  ** - *Awarded for notable performance in the mathematics competition*, December 2020.
+- **First Prize in C/C++ Programming (University Group A), Lanqiao Cup Shandong Province 蓝桥杯山东赛区 C/C++程序设计大学 A 组** - *Awarded for excellence in C/C++ programming*, May 2021.
+- **Bronze Medal at the 45th ACM-ICPC Asia Regional Contest, Kunming Site 第 45 届 ACM-ICPC 亚洲区域赛昆明站** - *Awarded for outstanding performance in algorithmic programming contest*, April 2021.
+- **First Prize in Category B, Shandong Provincial College Student Physics Competition 山东省大学生物理竞赛 B 类一等奖** - *Awarded for exceptional achievement in the physics competition*, December 2020.
+- **Third Prize in the National College Student Mathematics Competition (Non-Mathematics Major) 全国大学生数学竞赛（非数学类）** - *Awarded for notable performance in the mathematics competition*, December 2020.
 
 ---
 
