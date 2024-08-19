@@ -1,4 +1,4 @@
-# Hi, I'm Xianke Qiang 👋
+# Hi, I'm Xianke Qiang (强贤柯) 👋
 
 I received my B.Eng. degree from China University of Petroleum (East China), Qingdao, China, in 2023. Currently, I am pursuing a Master’s and PhD's degree at the University of Electronic Science and Technology of China. My research interests include federated learning, split learning, vehicular networks, AIGC, resource allocation, the Internet of Things, and more. 
 
@@ -32,7 +32,7 @@ Here are some of my recent publications:
 - **Second Prize in the National College Student Computer Design Competition 中国大学生计算机设计大赛** - *Awarded for outstanding design and implementation in computer science*, August 2022.
 - **Second Prize in the National College Student Internet of Things Design Competition (Huawei Cup) 全国大学生物联网设计竞赛（华为杯）**  - *Recognized for excellence in IoT design*, August 2022.
 - **First Prize (Team) at the National Finals of China Collegiate Computing Competition - Group Programming Ladder Tournament 中国高校计算机大赛-团体程序设计天梯赛** - *Awarded for top performance in the national team programming contest*, April 2022.
-- **Silver Medal at the Shandong Province ACM Programming Contest 山东省 ACM 程序设计大赛  ** - *Recognized for excellent performance in the programming contest*, May 2021.
+- **Silver Medal at the Shandong Province ACM Programming Contest 山东省 ACM 程序设计大赛** - *Recognized for excellent performance in the programming contest*, May 2021.
 - **First Prize (Team) at the National Finals of China Collegiate Computing Competition - Group Programming Ladder Tournament 中国高校计算机大赛-团体程序设计天梯赛** - *Awarded for top performance in the national team programming contest*, May 2021.
 - **First Prize in C/C++ Programming (University Group A), Lanqiao Cup Shandong Province 蓝桥杯山东赛区 C/C++程序设计大学 A 组** - *Awarded for excellence in C/C++ programming*, May 2021.
 - **Bronze Medal at the 45th ACM-ICPC Asia Regional Contest, Kunming Site 第 45 届 ACM-ICPC 亚洲区域赛昆明站** - *Awarded for outstanding performance in algorithmic programming contest*, April 2021.
